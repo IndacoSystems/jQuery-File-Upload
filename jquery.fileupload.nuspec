@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>iFileUpload</id>
+    <version>8.3.0</version>
+    <authors>blueimp</authors>
+    <owners>Indaco Systems</owners>
+    <description>File uploader, modified by Indaco Systems</description>
+    <projectUrl>https://github.com/blueimp/jQuery-File-Upload</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <tags>upload</tags>
+    <language>en-US</language>
+  </metadata>
+  <files>
+    <file src="js\jquery.fileupload-audio.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-audio.js" />
+    <file src="js\jquery.fileupload-image.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-image.js" />
+    <file src="js\jquery.fileupload-process.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-process.js" />
+    <file src="js\jquery.fileupload-ui.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-ui.js" />
+  <file src="js\jquery.fileupload-validate.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-validate.js" />
+	<file src="js\jquery.fileupload-video.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-video.js" />
+	<file src="js\jquery.fileupload.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload.js" />
+	<file src="js\jquery.iframe-transport.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.iframe-transport.js" />
+  </files>
+</package>
