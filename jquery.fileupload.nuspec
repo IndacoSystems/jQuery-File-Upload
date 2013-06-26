@@ -12,11 +12,11 @@
     <language>en-US</language>
   </metadata>
   <files>
-    <file src="js\jquery.fileupload-audio.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-audio.js" />
-    <file src="js\jquery.fileupload-image.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-image.js" />
-    <file src="js\jquery.fileupload-process.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-process.js" />
-    <file src="js\jquery.fileupload-ui.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-ui.js" />
-  <file src="js\jquery.fileupload-validate.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-validate.js" />
+	<file src="js\jquery.fileupload-audio.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-audio.js" />
+	<file src="js\jquery.fileupload-image.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-image.js" />
+	<file src="js\jquery.fileupload-process.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-process.js" />
+	<file src="js\jquery.fileupload-ui.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-ui.js" />
+	<file src="js\jquery.fileupload-validate.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-validate.js" />
 	<file src="js\jquery.fileupload-video.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-video.js" />
 	<file src="js\jquery.fileupload.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload.js" />
 	<file src="js\jquery.iframe-transport.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.iframe-transport.js" />
