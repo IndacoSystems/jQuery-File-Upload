@@ -10,6 +10,9 @@
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <tags>upload</tags>
     <language>en-US</language>
+    <dependencies>
+    	<dependency id="iLoadImageJS" version="1.7.0" />
+    </dependencies>
   </metadata>
   <files>
 	<file src="js\jquery.fileupload-audio.js" target="Content\Scripts\Lib\Vendor\FileUpload\jquery.fileupload-audio.js" />
